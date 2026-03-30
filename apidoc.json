@@ -1,0 +1,9 @@
+{
+  "name": "PHP REST API",
+  "version": "1.0.0",
+  "description": "REST API dokumentáció - Felhasználók, Megyék és Városok kezelése",
+  "title": "REST API Documentation",
+  "url": "http://localhost",
+  "sampleUrl": "http://localhost",
+  "order": ["Auth", "User", "County", "City"]
+}
